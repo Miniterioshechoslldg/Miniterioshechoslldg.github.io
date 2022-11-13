@@ -24,11 +24,11 @@ body {
 
 .navbar {
     display: flex;
-    margin-right: 10px;
+    margin-right: 10%;
 }
 
 .logo {
-    margin-left: 30px;
+    margin-left: 30%;
 }
 
 .logo a {
